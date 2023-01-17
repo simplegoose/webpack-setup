@@ -109,7 +109,7 @@ N/A
 
 👤 **Simplegoose**
 
-- GitHub: [@githubhandle](https://github.com/simplegoose)
+- GitHub: [@github](https://github.com/simplegoose)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
